@@ -9,6 +9,7 @@ public class Program {
     static int ageinfiveyears, age;
 
     static void Main(string[] args) {
+        AskAge();
         AskName();
         AskEyeColor();
         AskHairColor();
